@@ -200,12 +200,6 @@
                 android:textSize="25sp"
                 android:layout_marginRight="5dp"/>
 
-            <Button
-                android:layout_width="90dp"
-                android:layout_height="90dp"
-                android:text="."
-                android:textSize="25sp"
-                android:layout_marginRight="5dp"/>
 
         </LinearLayout>
 
